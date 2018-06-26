@@ -1728,4 +1728,81 @@ draw(True)
 doc['button_a'].bind('click',draw)
 &lt;/script&gt;
 
-&lt;/pre&gt;</content><category term="繪製靜態正齒輪"></category></entry></feed>
+&lt;/pre&gt;</content><category term="繪製靜態正齒輪"></category></entry><entry><title>乙班第九組 W11</title><link href="./yi-ban-di-jiu-zu-w11.html" rel="alternate"></link><published>2018-05-09T08:01:00+08:00</published><updated>2018-05-09T08:01:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-09:./yi-ban-di-jiu-zu-w11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;1-1 使用 canvas 畫出一個可自選齒數之靜態正齒輪&lt;/h2&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;canvas id="onegear" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;!-- 以下製作 button--&gt;
+
+&lt;h1&gt;W11 完成二連桿機構後每個人嘗試三連桿機構並拍影片傳到用學校信箱的youtube上,之後在W10的下面再回報&lt;/h1&gt;
+&lt;h1&gt;40523243 賴瑋傑(三連桿機構)&lt;/h1&gt;
+&lt;h2&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IHZ00sHe9iM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h2&gt;
+&lt;h1&gt;onshape:&lt;/h1&gt;
+&lt;p&gt;https://cad.onshape.com/documents/44928c4db6d4674d1bd31795/w/62f09094c3719c9af53443f0/e/54c84b95231dd6c938a3c3e3&lt;/p&gt;
+&lt;h2&gt;實作過程&lt;/h2&gt;
+&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sk6YAmP09ys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+&lt;h2&gt;40523236 黃碩傑(三連桿機構)&lt;/h2&gt;
+&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/WyoS04yPlGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+&lt;h2&gt;40523233陳翰璋(三連桿機構)&lt;/h2&gt;
+&lt;h1&gt;&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/6H6uAhqlwjc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;</content><category term="嘗試三連桿機構"></category></entry><entry><title>乙班第九組W10</title><link href="./yi-ban-di-jiu-zu-w10.html" rel="alternate"></link><published>2018-05-02T08:00:00+08:00</published><updated>2018-05-02T08:00:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-02:./yi-ban-di-jiu-zu-w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;兩段式六連桿提球機構設計與模擬&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;h1&gt;W10 兩段式六連桿提球機構設計與模擬&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下載 Pyslvs:&lt;br&gt;
+&lt;a href="http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z"&gt;http://wcmg3.kmol.info/downloads/pyslvs-18.4.0.mscv1900-amd64_cdw10.7z&lt;/a&gt; (需要用Proxy下載)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;請各組在 W11 上課之前完成 Pyslvs 套件中之 ball lifter 機構的 Solvespace 零件組立與 V-rep 提球模擬&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各組請在各組倉儲中繳交 cd_w11_ag1.slvs 零件組立檔、cd_w11_ag1.pyslvs 機構模擬檔與 cd_w11_ag1.ttt 提球模擬檔&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各組在 W11 上課前, 必須拍攝利用此一雙階段提球機構, 將球送到各組目前既有的軌道模組循環運行至少兩次的模擬影片
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;本組cd w11_ag9軌道+連桿&lt;/strong&gt;&lt;/h3&gt;
+&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sd3tMnSQOSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+&lt;h3&gt;&lt;strong&gt;cd_w11_ag9.ttt:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;[&lt;strong&gt;cd_w11 ag9&lt;/strong&gt;]{&lt;strong&gt;https://github.com/s40523243/cd2018/blob/master/W10/cd_w11_ag9(%E9%80%A3%E6%A1%BF%E6%90%AD%E9%85%8D%E8%BB%8C%E9%81%93).ttt?raw=true&lt;/strong&gt;}&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;繪製過程&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4&gt;我們採用的繪圖軟體是Inventor然後靠pyslvs是做出連桿機構所行走的位置,大概繪製好之後就轉到先儲存在電腦上,再來就是導入solvespace裡(在pyslvs裡按File -&amp;gt; Export -&amp;gt; 有一個 2D sketch 之後就能用solvespace開啟所要的連桿機構)然後開啟完就會給你連桿的尺寸及三角塊的尺寸,之後就可以開始在Inventor上開始畫了,畫完之後組裝起來匯出,儲存成stl檔 然後設定一些軸與軸的連結那些,至於圖上的提球讓他周旋兩次是之後才畫出來的一步一步地想才想得出來,必須得多花一點時間在上面,至於點跟點的配合都需要微精密,這樣鋼球才不會亂跑&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;連桿組合VREP教學&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IdsXV41qHEQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;本組連桿提求機構基本構想&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;pyslvs&lt;/strong&gt;&lt;img alt="" src="/assets/W10.jpg"&gt;&lt;/h3&gt;
+&lt;h4&gt;&lt;strong&gt;cd_w11_ag9.pyslvs: &lt;/strong&gt;&lt;a href="https://github.com/s40523243/cd2018/blob/master/W10/cd_w11_ag9.pyslvs?raw=true"&gt;&lt;strong&gt;https://github.com/s40523243/cd2018/blob/master/cd_w11_ag9.pyslvs?raw=true&lt;/strong&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h2&gt;solvespace&lt;img alt="" src="/assets/2018-05-10.png"&gt;&lt;/h2&gt;
+&lt;h4&gt;&lt;strong&gt;cd_w11_ag9.slvs:&lt;/strong&gt;&lt;a href="https://github.com/s40523243/cd2018/blob/master/W10/cd_w11_ag9.slvs"&gt;&lt;strong&gt;https://github.com/s40523243/cd2018/blob/master/cd_w11_ag9.slvs&lt;/strong&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;/h4&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;h2&gt;&lt;/h2&gt;</content><category term="W10"></category></entry></feed>

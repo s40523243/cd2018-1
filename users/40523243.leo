@@ -33,10 +33,10 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180626204551.1" a="E"><vh>W1</vh>
+<v t="leo.20180626204551.1"><vh>W1</vh>
 <v t="leo.20180626204551.2" a="E"><vh>1-1</vh>
 <v t="leo.20180626204551.3"><vh>1</vh></v>
 </v>
@@ -900,6 +900,8 @@ Created by [賴瑋傑](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [40523243](blog/index.html)
+
+[youtube](https://www.youtube.com/channel/UCufTBG54pdEUxrJVLBTEUTA?view_as=subscriber)
 
 
     &lt;/script&gt;

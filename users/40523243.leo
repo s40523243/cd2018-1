@@ -123,9 +123,14 @@
 <v t="leo.20180626212913.3"><vh>1</vh></v>
 </v>
 </v>
-<v t="leo.20180626213150.1" a="E"><vh>w14</vh>
+<v t="leo.20180626213150.1"><vh>w14</vh>
 <v t="leo.20180626213150.2" a="E"><vh>w14</vh>
 <v t="leo.20180626213150.3"><vh>1</vh></v>
+</v>
+</v>
+<v t="leo.20180626223337.1" a="E"><vh>w18期末自評</vh>
+<v t="leo.20180626223337.2" a="E"><vh>w18</vh>
+<v t="leo.20180626223337.3"><vh>1</vh></v>
 </v>
 </v>
 </v>
@@ -723,6 +728,25 @@ https://cad.onshape.com/documents/44928c4db6d4674d1bd31795/w/62f09094c3719c9af53
 <t tx="leo.20180626213227.2">繪製過程
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/sk6YAmP09ys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20180626223337.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+
+                    	
+</t>
+<t tx="leo.20180626223337.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20180626223337.3">#期末自評成績
+
+分數: 75 分
 
 </t>
 <t tx="yen.20170108171605.1"></t>

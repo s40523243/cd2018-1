@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-05-23T12:03:00+08:00</updated><entry><title>繪製組合轉動正齒輪</title><link href="./hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html" rel="alternate"></link><published>2018-05-23T12:03:00+08:00</published><updated>2018-05-23T12:03:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-23:./hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-05-30T12:03:00+08:00</updated><entry><title>乙班第九組 W14</title><link href="./yi-ban-di-jiu-zu-w14.html" rel="alternate"></link><published>2018-05-30T12:03:00+08:00</published><updated>2018-05-30T12:03:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-30:./yi-ban-di-jiu-zu-w14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;h3&gt;軌道+車搬運&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/2018-06-25.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/12546.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/125467.png"&gt;&lt;/p&gt;
+&lt;h3&gt;youtube模擬&lt;/h3&gt;
+&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/as-OyFf4CXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+&lt;p&gt;[V-rep檔案](https://github.com/s40523243/gitbook/blob/master/bg9/%E5%8D%94%E5%90%8C%E6%9C%9F%E6%9C%AB/cd_w14_bg9(car).ttt?raw=true)&lt;/p&gt;
+&lt;p&gt;Inventor零件組合![](/assets/2018-06-24 %282%29.png)&lt;img alt="" src="/assets/2018-06-241.png"&gt;&lt;/p&gt;
+&lt;p&gt;偕同產品設計&lt;/p&gt;
+&lt;p&gt;公布唐捐&lt;/p&gt;
+&lt;p&gt;凡走過必留下痕跡&lt;/p&gt;
+&lt;p&gt;設計是依連串問題解決的過程&lt;/p&gt;
+&lt;p&gt;工程設計的結果應該是可以讓人依循&lt;/p&gt;
+&lt;p&gt;且得到設計者所預期的結果&lt;/p&gt;
+&lt;p&gt;協同是多人協力一同 試圖達到特定目標的作為&lt;/p&gt;</content><category term="嘗試運行車"></category></entry><entry><title>繪製組合轉動正齒輪</title><link href="./hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html" rel="alternate"></link><published>2018-05-23T12:03:00+08:00</published><updated>2018-05-23T12:03:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-23:./hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -402,7 +426,40 @@ setgearnumber(True)
 doc['button_d'].bind('click',setgearnumber)
 &lt;/script&gt;
 
-&lt;/pre&gt;</content><category term="繪製組合轉動正齒輪"></category></entry><entry><title>繪製靜態組合正齒輪</title><link href="./hui-zhi-jing-tai-zu-he-zheng-chi-lun.html" rel="alternate"></link><published>2018-05-23T12:02:00+08:00</published><updated>2018-05-23T12:02:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-23:./hui-zhi-jing-tai-zu-he-zheng-chi-lun.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/pre&gt;</content><category term="繪製組合轉動正齒輪"></category></entry><entry><title>乙班第九組 W15</title><link href="./yi-ban-di-jiu-zu-w15.html" rel="alternate"></link><published>2018-05-23T12:03:00+08:00</published><updated>2018-05-23T12:03:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-23:./yi-ban-di-jiu-zu-w15.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;h1&gt;設定# 設定Pull Requests&lt;/h1&gt;
+&lt;h2&gt;Pull Requests的設定是將github上的倉儲跟偕同者合併,這樣就可以每個人做每個人的工作,就不會予有改檔案的情形&lt;/h2&gt;
+&lt;h1&gt;&lt;strong&gt;#1 提交至scrum-1/gitbook倉儲&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3&gt;1.先在自己的github的gitbook倉儲裡然後點選Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/1111.png"&gt;&lt;/p&gt;
+&lt;h3&gt;2.再來就是按New Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/2221222.png"&gt;&lt;/p&gt;
+&lt;h3&gt;3.接下來按Create Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/33333.png"&gt;&lt;/p&gt;
+&lt;h3&gt;4.之後打上自己的倉儲名稱然後按Create Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/4444444444.png"&gt;&lt;/p&gt;
+&lt;h3&gt;5.再來就是等組長提交更改(如果是組長則可以直接提交更改&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/555.png"&gt;&lt;/p&gt;
+&lt;h1&gt;#2 與scrum-1/gitbook倉儲協同(把那些自己倉儲沒有的資料同步到自己的gitbook倉儲)&lt;/h1&gt;
+&lt;h3&gt;1.先到自己github的gitbook倉儲上按Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/12212.png"&gt;&lt;/p&gt;
+&lt;h3&gt;2.按New Pull Requests&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/1414.png"&gt;&lt;/p&gt;
+&lt;h3&gt;3.然後在網址上圖示之兩者對調&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/6666.png"&gt;&lt;/p&gt;
+&lt;h3&gt;4.之後就會出現然後按Create Pull Requests(如果畫面不同則代表網址更改有錯)&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/88888.png"&gt;&lt;/p&gt;
+&lt;h3&gt;5.之後打上自己的倉儲名稱然後按Create Pull Requests這樣就完成同步了!!&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" src="/assets/9999.png"&gt;&lt;/p&gt;</content><category term="設定Pull Requests"></category></entry><entry><title>繪製靜態組合正齒輪</title><link href="./hui-zhi-jing-tai-zu-he-zheng-chi-lun.html" rel="alternate"></link><published>2018-05-23T12:02:00+08:00</published><updated>2018-05-23T12:02:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-23:./hui-zhi-jing-tai-zu-he-zheng-chi-lun.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;2-1 使用 canvas 畫出一個可自選齒數並組合之靜態正齒輪&lt;/h2&gt;
 &lt;p&gt;&lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -1728,9 +1785,46 @@ draw(True)
 doc['button_a'].bind('click',draw)
 &lt;/script&gt;
 
-&lt;/pre&gt;</content><category term="繪製靜態正齒輪"></category></entry><entry><title>乙班第九組 W11</title><link href="./yi-ban-di-jiu-zu-w11.html" rel="alternate"></link><published>2018-05-09T08:01:00+08:00</published><updated>2018-05-09T08:01:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-09:./yi-ban-di-jiu-zu-w11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/pre&gt;</content><category term="繪製靜態正齒輪"></category></entry><entry><title>乙班第九組 W12</title><link href="./yi-ban-di-jiu-zu-w12.html" rel="alternate"></link><published>2018-05-16T08:01:00+08:00</published><updated>2018-05-16T08:01:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-16:./yi-ban-di-jiu-zu-w12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h2&gt;1-1 使用 canvas 畫出一個可自選齒數之靜態正齒輪&lt;/h2&gt;
+&lt;p&gt;繪製三種齒輪&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;canvas id="onegear" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;!-- 以下製作 button--&gt;
+
+&lt;h2&gt;1.請各組員在各自的 Github Pages 中繪製一個自選齒數的漸開線正齒輪輪 廓外型.&lt;/h2&gt;
+&lt;h2&gt;2.完成單一齒輪輪廓繪圖後, 請繪製一組 50t 與 25t 的齒輪嚙合靜態輪廓圖.&lt;/h2&gt;
+&lt;h2&gt;3.完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖.&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2&gt;40523233  陳翰璋(繪製齒輪)&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://s40523233.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html"&gt;繪製靜態正齒輪&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://s40523233.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html"&gt;繪製靜態組合正齒輪&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://s40523233.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html"&gt;繪製組合轉動正齒輪&lt;/a&gt;&lt;/h3&gt;
+&lt;h2&gt;40523236  黃碩傑(繪製齒輪)&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://s40523236.github.io/newcd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html"&gt;繪製靜態正齒輪&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://s40523236.github.io/newcd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html"&gt;繪製靜態組合正齒輪&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://s40523236.github.io/newcd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html"&gt;繪製組合轉動正齒輪&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;40523243 賴瑋傑(繪製齒輪)&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://s40523243.github.io/cd2018-1/blog/hui-zhi-jing-tai-zheng-chi-lun.html"&gt;43齒 漸開線正齒輪輪廓外型&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://s40523243.github.io/cd2018-1/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html"&gt;50.25齒 兩齒嚙合靜態繪圖&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;a href="https://s40523243.github.io/cd2018-1/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html"&gt;50.25齒 兩齒嚙合動態繪圖&lt;/a&gt;&lt;/h3&gt;</content><category term="嘗試三連桿機構"></category></entry><entry><title>乙班第九組 W11</title><link href="./yi-ban-di-jiu-zu-w11.html" rel="alternate"></link><published>2018-05-09T08:01:00+08:00</published><updated>2018-05-09T08:01:00+08:00</updated><author><name>40523243</name></author><id>tag:None,2018-05-09:./yi-ban-di-jiu-zu-w11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;三連桿機構&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
